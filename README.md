@@ -12,8 +12,8 @@
 5. php artisan migrate
 6. php artisan db:seed
 ## 使用環境
-・PHP 8.0  
-・Laravel 10.0  
+・PHP 7.4  
+・Laravel 8.83  
 ・MySQL 8.0
 ## ER図
 ![index drawio](https://github.com/HayatoOhki/ability-test/assets/157372211/39002491-dbca-4003-85fb-94a2e3152b5f)
