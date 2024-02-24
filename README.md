@@ -12,9 +12,9 @@
 5. php artisan migrate
 6. php artisan db:seed
 ## 使用環境
-・PHP 8.0
-・Laravel 10.0
-・MySQL 8.0
+・PHP 8.0  
+・Laravel 10.0  
+・MySQL 8.0  
 ## URL
-・開発環境：http://localhost/
+・開発環境：http://localhost/  
 ・phpMyAdmin：http://localhost:8080/
