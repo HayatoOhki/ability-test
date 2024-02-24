@@ -1,0 +1,36 @@
+body {
+    color: #907c6c;
+    font-family: "Noto Serif JP", serif;
+}
+
+.header {
+    background-color: #ffffff;
+    border-bottom: 1px solid #907c6c;
+}
+
+.header__inner {
+    margin: 0 auto;
+    max-width: 1230px;
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+
+.header__logo {
+    color: #907c6c;
+    text-decoration: none;
+}
+
+.header__nav {
+    font-size: 20px;
+    color: #907c6c;
+    position: absolute;
+    top: 50%;
+    right: 0;
+    transform: translate(-50%, -50%);
+    text-decoration: none;
+    border: 1px solid #907c6c;
+    border-radius: 3px;
+    padding: 5px 10px;
+    background-color: #e6e1d8;
+}
