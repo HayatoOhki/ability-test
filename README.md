@@ -14,7 +14,9 @@
 ## 使用環境
 ・PHP 8.0  
 ・Laravel 10.0  
-・MySQL 8.0  
+・MySQL 8.0
+## ER図
+![index](https://github.com/HayatoOhki/ability-test/assets/157372211/200a87a9-4a70-496e-a72a-b34a2c633411)
 ## URL
 ・開発環境：http://localhost/  
 ・phpMyAdmin：http://localhost:8080/
